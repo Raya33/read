@@ -1,1 +1,1 @@
-# read
+# Git :Version Control System, which allows source code tracking and management over time, is the most commonly used version control system, powered by Linus Torvalds, the same person who created Linux. Designed to collaborate and designed to be flexible, secure and effective, it allows people to work together on the same project at the same time without compromising each other's files.
